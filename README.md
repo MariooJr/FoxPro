@@ -13,4 +13,6 @@ Para compartilhar projetos, dúvidas e discussões diversas.
 
 [FoxyPreviewer](https://www.foxypreviewer.com/)
 
+[Via Cep](https://github.com/MariooJr/viacep)
+
 [VFPX (Lista com vários projetos)](https://vfpx.github.io/projects/) 
